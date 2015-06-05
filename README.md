@@ -5,7 +5,7 @@
 [![Test Coverage](https://codeclimate.com/github/rspine/restrictions/badges/coverage.svg)](https://codeclimate.com/github/rspine/restrictions/coverage)
 [![Code Climate](https://codeclimate.com/github/rspine/restrictions/badges/gpa.svg)](https://codeclimate.com/github/rspine/restrictions)
 
-
+Restrictions registration for application context.
 
 ## Installation
 

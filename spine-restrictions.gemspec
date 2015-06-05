@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = Spine::Restrictions::VERSION
   spec.authors       = ["TOGGL LLC"]
   spec.email         = ["support@toggl.com"]
-  spec.summary       = ''
+  spec.summary       = 'Restrictions registration for application context'
   spec.description   = ''
   spec.homepage      = 'https://github.com/rspine/restrictions'
   spec.license       = 'BSD-3-Clause'
