@@ -19,10 +19,6 @@ module Spine
         }
       end
 
-      def configure(&block)
-        instance_eval &block
-      end
-
       def restrictions(action, resource)
         registrations.select { |registration|
           registration.applies?(action, resource)
